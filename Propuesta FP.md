@@ -1,4 +1,4 @@
-# Propuestas FP
+# Propuestas FP y Secundaria
 
 ## itinerario
 
