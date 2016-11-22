@@ -1,6 +1,6 @@
 # Propuestas FP y Secundaria
 
-## itinerario
+## Itinerario
 
 Necesidad de conocer el itinerario que se va a realizar desde el principio, muchos profes se apuntan a un curso que no se corresponde con su nivel "Por si luego no hacen otro que me venga mejor"
 
@@ -19,7 +19,7 @@ La mayoría de los profes ya tenían unos conocimientos básicos y/o sabían el 
 
 Hay que darle usos prácticas a las impresoras 3D:
 
-* [Usar figuras geométricas para dibujo técnico](https://tecnopujol.wordpress.com/2016/05/16/openscad-piezas-de-dibujo-e-impresion-3d/)
+* [Usar figuras geométricas para dibujo técnico](https://tecnopujol.wordpress.com/2016/05/16/openscad-piezas-de-dibujo-e-impresion-3d/) (https://tecnopujol.wordpress.com/2016/05/16/openscad-piezas-de-dibujo-e-impresion-3d/)
 
   ![2](https://tecnopujol.files.wordpress.com/2016/05/piezasdibujo3d.jpg)
 
@@ -53,3 +53,4 @@ En breve vamos a empezar a ver coches eléctrico por las calles y pienso es un c
 * Ligas europeas
 * Modelos a escala
 * ¿Patrocinadores? ¿Fondos europeos? Quiero pensar que hay dinero para fomentar estas tecnologías limpias y proyectos así podrían ser un excelente reclamo.
+  
