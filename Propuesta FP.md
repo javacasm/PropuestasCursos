@@ -4,18 +4,18 @@
 
 Necesidad de conocer el itinerario que se va a realizar desde el principio, muchos profes se apuntan a un curso que no se corresponde con su nivel "Por si luego no hacen otro que me venga mejor"
 
-## Ayuda a proyectos
+## Ayuda a proyectos (FP y Secundaria)
 
 Ejemplo: el curso avanzado que hicimos el año pasado en Baeza
 La mayoría de los profes ya tenían unos conocimientos básicos y/o sabían el proyecto que querían hacer y sólo necesitaban algo de ayuda. Podrían ser 3 sesiones presenciales (propuestas y definición del proyecto, revisión a mitad y presentación final) y una asistencia online/videoconferencia
 
-## Para el 2017-2018 Electrónica digital con FPGAs
+## Para el 2017-2018 Electrónica digital con FPGAs (FP y Secundaria)
 
  El tema de las FPGAs son las nuevas impresoras 3D de la electrónica y proyectos como FPGAWars ( http://fpgawars.github.io/ ) están haciéndolas accesibles a todo el mundo. Yo me he comprado una y quiero elaborar un material básico con el que hacer al menos un presentación de una tarde y preparar cursos para más adelante
 
  ![a](http://fpgawars.github.io/img/projects/icezum-alhambra-v1.1-min.jpg)
 
-## Usos de la impresión 3d
+## Usos de la impresión 3d (secundaria)
 
 Hay que darle usos prácticas a las impresoras 3D:
 
