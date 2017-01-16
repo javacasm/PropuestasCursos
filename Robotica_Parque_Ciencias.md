@@ -41,24 +41,32 @@ Existen muchos modelos disponibles y se podía pensar en emprimir algunos y
 
 * Construcción, montaje y programación de robots opensource
 
-  Difusión de los modelos y de las posibilidades que proporciona el Open-source y la impresión 3D
+  Difusión de los modelos y de las posibilidades que proporciona el Open-source y la impresión 3D y que puedan utilizar en sus aulas
 
-  Se pueden dividir en 3-4 sesiones
+  Se pueden dividir en 3-4 sesiones, Modelos e impresión, montaje y programación
 
 * Creación y montaje de kit de robótica/electrónica
 
-![kitelectronica](./images/KitElectronica.jpg)
+  ![kitelectronica](./images/KitElectronica.jpg)
+
+  La idea es que puedan crear su propio kit de electrónica que los propios alumnos pueden construir y utilizar
 
 ### Familias y Escolares
 
-Usaremos robots fácilmente construibles y con kit que el profesora puedo construir
+Usaremos robots fácilmente construibles y con un kit que el profesor puede construir
 
   ![robots](./images/Robots.jpg)
 
-* Montaje y control de robots opensource (hasta 11 años en adelante)
+* Montaje y control de robots opensource (hasta 11 años)
+
+  Montan y controlan con tablets o móviles los robots
 
 * Montaje y programación de robots opensource (12 años en adelante)
 
+  Montan y programan el robot que han construido
+
 * Construcción de robots con productos reciclados
+
+  Utilizando el kit de electrónica y componentes reciclados crean y construllen sus propios robots
 
   ![RobotReciclaje.jpg](./images/RobotReciclaje.jpg)
