@@ -70,3 +70,14 @@ Usaremos robots fácilmente construibles y con un kit que el profesor puede cons
   Utilizando el kit de electrónica y componentes reciclados crean y construllen sus propios robots
 
   ![RobotReciclaje.jpg](./images/RobotReciclaje.jpg)
+
+
+## TODO
+
+###  Valoración en tiempo, costo (materiales, filamento y horas de montaje) y trabajo de ...
+
+No es urgente
+
+* PlotClock
+* InMoov (y variantes como hidalgo)
+* Detalle de talleres: costo de materiales, duración, temática, público
