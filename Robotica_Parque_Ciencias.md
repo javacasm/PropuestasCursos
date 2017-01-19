@@ -6,6 +6,8 @@ De paso se les presenta a los docentes y al público en general que pueden const
 
 Cada uno de los modelos tendría a su lado un código QR que apunte a su diseño para descargarlo (quizás a una página del Parque de las ciencias)
 
+[![qr](./images/qrcode.png)](./images/qrcode_big.png)
+
 ## Exposición
 
 Se podrían incluir algunos robots opensource en la exposición para dar visibilidad al moviendo Maker actual
