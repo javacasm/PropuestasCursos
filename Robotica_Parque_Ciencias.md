@@ -80,9 +80,12 @@ No es urgente
 
 * PlotClock
 * InMoov (y variantes como hidalgo)
+4x
 * Detalle de talleres: costo de materiales, duración, temática, público
   * Robot con materiales reciclados
   * Montaje de robots siguelineas
+  * Calidad del aire
+  * 4xiDraw
 * Charlas
   * Robot avanzados (vision artificial)
   * FPGAs
