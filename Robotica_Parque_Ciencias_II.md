@@ -70,6 +70,18 @@ Se podrían incluir algunos robots opensource en la exposición para dar visibil
 
 ### Estación de medida de calidad del aire
 
+Estación de medida de gases y párticulas en suspensión similar a la del [proyecto Leptos](https://imvec.tech/leptos/) pero con conectividad inalámbrica
+
+![Leptos](https://imvec.tech/wp-content/uploads/2016/09/LeptosSteps001-1024x768.jpg)
+
+
+|Material|Costo|Tiempo|
+|---|---|---|
+|Piezas impresas||2h|
+|Electrónica|80||
+|Alimentación|40||
+|Montaje||10h|
+|Total|140€|10h=250€|
 
 
 
