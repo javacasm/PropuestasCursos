@@ -80,9 +80,13 @@ Usaremos robots fácilmente construibles y con un kit que el profesor puede cons
 
 No es urgente
 
+####  Proyectos
+
 * PlotClock
 * InMoov (y variantes como hidalgo)
-4x
+* Brazo robot Moveo bcn3d
+
+
 * Detalle de talleres: costo de materiales, duración, temática, público
   * Robot con materiales reciclados
   * Montaje de robots siguelineas
