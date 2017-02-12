@@ -32,7 +32,7 @@ Se podrían incluir algunos robots opensource en la exposición para dar visibil
 |Alimentación|40||
 |Nylon|20||
 |Montaje||90d|
-|Total|1000€|700h|
+|Total|1000€|¿? - 700h|
 
 
 
