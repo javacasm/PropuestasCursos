@@ -1,6 +1,6 @@
 # Propuestas para la exposición de robótica del Parque de las Ciencias
 
-Cada uno de los modelos tendría a su lado un código QR que apunte a su diseño para descargarlo (quizás a una página del Parque de las ciencias)
+Cada uno de los modelos tendría a su lado un código QR que apunte a su diseño para descargarlo (quizás a una página del Parque de las Ciencias)
 
 [![qr](./images/qrcode.png)](./images/qrcode_big.png)
 
@@ -12,8 +12,28 @@ Se podrían incluir algunos robots opensource en la exposición para dar visibil
 
 ![inmoov](http://www.meccanismocomplesso.org/wp-content/uploads/2015/10/Meccanismo-Complesso-InMoov1.png)
 
-A lo largo de la exposición se van imprimiendo piezas y se van ensamblando
-(Por sencillez se puede obviar la parte electrónica e ir pegando las piezas impresas)
+
+[Piezas, workroad]()
+
+[Test de si se es capaz](https://inmoov.fr/finger-starter/)
+
+[Building InMoov](https://ultimaker.com/en/community/20036-inmoov)
+
+([Estimación del coste](http://www.robots-and-androids.com/Gael-Langevin-and-InMoov.html))
+
+|Material|Costo|Tiempo|
+|---|---|---|
+|Piezas impresas(190)|150|2000h|
+|Electrónica(3)|100||
+|Cámaras|100||
+|Raspbery 3|40||
+|Motores(40)|400||
+|Tornillería|50||
+|Alimentación|40||
+|Nylon|20||
+|Montaje||90d|
+|Total|1000€|700h|
+
 
 
 ### PlotClock
@@ -23,7 +43,7 @@ A lo largo de la exposición se van imprimiendo piezas y se van ensamblando
 |Material|Costo|Tiempo|
 |---|---|---|
 |Piezas impresas|5|2h|
-|Eletronica|50||
+|Electrónica|50||
 |Motores|10||
 |Tornillería|5||
 |Montaje||4h|
@@ -41,18 +61,21 @@ A lo largo de la exposición se van imprimiendo piezas y se van ensamblando
 |Material|Costo|Tiempo|
 |---|---|---|
 |Piezas impresas|10|4h|
-|Eletronica|50||
+|Electrónica|50||
 |Motores|40||
 |Varillas|10||
 |Alimentación|15||
 |Montaje||10h|
 |Total|140€|16h=400€|
 
+### Estación de medida de calidad del aire
+
+
 
 
 ## Talleres
 
-### Profesorado
+### Profesorado/visitas de colegios (3h)
 
   ![robots](./images/Robots.jpg)
 
@@ -68,7 +91,7 @@ A lo largo de la exposición se van imprimiendo piezas y se van ensamblando
 
   La idea es que puedan crear su propio kit de electrónica que los propios alumnos pueden construir y utilizar
 
-### Familias y Escolares
+### Familias y Escolares (2h)
 
 Usaremos robots fácilmente construibles y con un kit que el profesor puede construir
 
@@ -87,27 +110,3 @@ Usaremos robots fácilmente construibles y con un kit que el profesor puede cons
   Utilizando el kit de electrónica y componentes reciclados crean y construllen sus propios robots
 
   ![RobotReciclaje.jpg](./images/RobotReciclaje.jpg)
-
-
-## TODO
-
-###  Valoración en tiempo, costo (materiales, filamento y horas de montaje) y trabajo de ...
-
-No es urgente
-
-####  Proyectos
-
-* PlotClock
-* InMoov (y variantes como hidalgo)
-* Brazo robot Moveo bcn3d
-
-
-* Detalle de talleres: costo de materiales, duración, temática, público
-  * Robot con materiales reciclados
-  * Montaje de robots siguelineas
-  * Calidad del aire
-  * 4xiDraw
-* Charlas
-  * Robot avanzados (vision artificial)
-  * FPGAs
-  * FabLab
