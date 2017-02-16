@@ -19,6 +19,8 @@ Se podrían incluir algunos robots opensource en la exposición para dar visibil
 
 [Building InMoov](https://ultimaker.com/en/community/20036-inmoov)
 
+[Video](https://www.youtube.com/watch?v=H4Z09edx52E&feature=youtu.be)
+
 ([Estimación del coste](http://www.robots-and-androids.com/Gael-Langevin-and-InMoov.html))
 
 |Material|Costo|Tiempo|
