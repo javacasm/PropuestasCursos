@@ -22,3 +22,14 @@ Trabajo por equipos.
 * Montaje
 * Programación del robot
 * Programación de SmartPhones Android
+
+## Montaje de drones
+
+Montaje y vuelo de drones
+Durante el montaje se aprende sobre su electrónica y la programación necesaria
+
+![kit drones](https://i.ebayimg.com/00/s/NjAwWDYwMA==/z/YpAAAOSwh2xX~a9C/$_58.JPG)
+
+* ¿Cómo funciona un drone?
+* Montaje del drone
+* Calibración y vuelo
