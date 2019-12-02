@@ -1,7 +1,8 @@
 
 # Robótica en primaria
 
-Para introducir la robótica/programción se puedenn planter 3 niveles según el nivel de robótica que se quiera introducir:
+
+Para introducir la robótica/programación se pueden plantear 3 niveles según el nivel de robótica que se quiera introducir:
 
 1. Scratch + Makey-Makey
 2. Scratch + Echidna
