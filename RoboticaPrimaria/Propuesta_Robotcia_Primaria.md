@@ -1,8 +1,9 @@
 
 # Robótica en primaria
 
+El recurso más utilizado en primaria es el clásico Scratch que tan bien funciona, pero si queremos llamar robótica a lo que hacemos debemos introducir algún componente físico con el que interacción.
 
-Para introducir la robótica/programación se pueden plantear 3 niveles según el nivel de robótica que se quiera introducir:
+Por eso para introducir la robótica/programación podemos plantear 3 niveles según el nivel de robótica que se quiera introducir:
 
 1. Scratch + Makey-Makey
 2. Scratch + Echidna
